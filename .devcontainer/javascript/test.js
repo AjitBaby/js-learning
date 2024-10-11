@@ -1,1 +1,0 @@
-console.log("Hello World. My first js program in github")
